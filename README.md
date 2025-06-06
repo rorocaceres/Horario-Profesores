@@ -19,6 +19,8 @@ Facilitar la visualización rápida y clara del horario docente dentro de la ins
 - Figma (diseño de pantallas)
 - Canva (prototipo visual)
 - ChatGPT (asistencia conceptual)
+📎 [Descargar diseño en Word, ahi estan los bocetos](Diseño_Horario_Profesores_EPET20.docx) 
+
 
  Descripción de pantallas:
 
